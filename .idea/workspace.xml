@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62f09dbc-1f28-43a2-9ec3-223155edc2ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Login/LoginTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkkGt3RVvmqHkogdoMOMqI5bhz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.LoginTests" />
+      <module name="Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62f09dbc-1f28-43a2-9ec3-223155edc2ab" name="Default Changelist" comment="" />
+      <created>1585390387013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585390387013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="220" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585390629938">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="722" y="220" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.828@0.23.1440.828" timestamp="1585390629938" />
+    <state width="1361" height="206" key="GridCell.Tab.0.bottom" timestamp="1585474583867">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1334" height="206" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1585399384987" />
+    <state width="1396" height="206" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1585425210593" />
+    <state width="1334" height="206" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1585401429557" />
+    <state width="1334" height="206" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585391214923" />
+    <state width="1361" height="206" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1585474583867" />
+    <state width="1361" height="206" key="GridCell.Tab.0.center" timestamp="1585474583866">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1334" height="206" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1585399384987" />
+    <state width="1396" height="206" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1585425210592" />
+    <state width="1334" height="206" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1585401429556" />
+    <state width="1334" height="206" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585391214923" />
+    <state width="1361" height="206" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1585474583866" />
+    <state width="1361" height="206" key="GridCell.Tab.0.left" timestamp="1585474583865">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1334" height="206" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1585399384987" />
+    <state width="1396" height="206" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1585425210592" />
+    <state width="1334" height="206" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1585401429555" />
+    <state width="1334" height="206" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585391214922" />
+    <state width="1361" height="206" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1585474583865" />
+    <state width="1361" height="206" key="GridCell.Tab.0.right" timestamp="1585474583866">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1334" height="206" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1585399384987" />
+    <state width="1396" height="206" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1585425210593" />
+    <state width="1334" height="206" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1585401429556" />
+    <state width="1334" height="206" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585391214923" />
+    <state width="1361" height="206" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1585474583866" />
+    <state x="362" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1585428697636">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="362" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1585401315606" />
+    <state x="362" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1585428697636" />
+    <state x="93" y="137" key="new project wizard" timestamp="1585469327003">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="93" y="137" key="new project wizard/0.23.1440.827@0.23.1440.827" timestamp="1585469327003" />
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1585422128554">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1585422128554" />
+  </component>
+</project>
